@@ -1,0 +1,29 @@
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.exe.config
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.exe
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.pdb
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csprojResolveAssemblyReference.cache
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.Калькулятор.resources
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.Properties.Resources.resources
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csproj.GenerateResource.Cache
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.exe
+c:\users\vldos\documents\visual studio 2015\Projects\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.pdb
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.exe.config
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.exe
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.pdb
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csprojResolveAssemblyReference.cache
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.Калькулятор.resources
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.Properties.Resources.resources
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csproj.GenerateResource.Cache
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csproj.CoreCompileInputs.cache
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.exe
+C:\Users\vldos\Downloads\Telegram Desktop\My (2)\My\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.pdb
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.exe.config
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.exe
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\bin\Debug\Kalkulyator.pdb
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.Калькулятор.resources
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.Properties.Resources.resources
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csproj.GenerateResource.Cache
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.exe
+C:\Users\Vlada\Desktop\Kalkulyator\Kalkulyator\obj\Debug\Kalkulyator.pdb

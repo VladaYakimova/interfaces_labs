@@ -1,0 +1,23 @@
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Lab1_Console.exe.config
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Lab1_Console.exe
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Lab1_Console.pdb
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.csprojAssemblyReference.cache
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.exe
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.pdb
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Telegram.Bot.dll
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\bin\Debug\Telegram.Bot.xml
+C:\Users\Ігор\Desktop\Наука\8-семестр\Розробка інтерфейсів користувача\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.csproj.CopyComplete
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Lab1_Console.exe.config
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Lab1_Console.exe
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Lab1_Console.pdb
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Telegram.Bot.dll
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\bin\Debug\Telegram.Bot.xml
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.csprojResolveAssemblyReference.cache
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.exe
+C:\Users\Vlada\Downloads\Telegram Desktop\Lab1_Console\Lab1_Console\Lab1_Console\obj\Debug\Lab1_Console.pdb
